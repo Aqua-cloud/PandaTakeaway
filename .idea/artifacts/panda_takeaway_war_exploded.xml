@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="panda_takeaway:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/panda_takeaway_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="pandaTakeaway/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="pandaTakeaway" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
